@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![2d8ee815146390d567706f2c7b5c2916](https://user-images.githubusercontent.com/48482025/165952913-e881eab8-d120-43d4-bdb8-f105a7d20dc3.gif )
+-->
+
+<img src="https://user-images.githubusercontent.com/48482025/165952913-e881eab8-d120-43d4-bdb8-f105a7d20dc3.gif" alt="nyan octocat" width="200"/>
 
 Please feel free to have a look around! It would make Nyan Octocat happy.
 
