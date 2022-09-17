@@ -25,4 +25,4 @@ Please feel free to have a look around! It would make Nyan Octocat happy.
 
 
 📫 Get in contact:
-  Drop me an email at miamannionx@gmail.com, or message me on LinkedIn linkedin.com/in/mia-mannion-a854241a6/
+  Drop me an email at miamannionx@gmail.com, or message me on [LinkedIn](https://www.linkedin.com/in/mia-mannion-a854241a6/)
